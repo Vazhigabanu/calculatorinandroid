@@ -689,12 +689,23 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+
+## MAINACTIVITY.JAVA:
+
+<img width="1917" height="1135" alt="Screenshot 2026-11-24 085218" src="https://github.com/user-attachments/assets/39c96a24-2df5-4f62-a9d8-723323c9feaf" />
+
+
 ## ACTIVITY_MAIN.XML:
 
+<img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/b6aa630d-f87b-4f8c-8dd4-428b44d0569f" />
 
 ## Addition operation:
 
+<img width="1917" height="1145" alt="Screenshot 2026-11-24 085242" src="https://github.com/user-attachments/assets/66d4fde7-bc79-4c04-a4ba-518d6876da20" />
+
 ## Subtraction Operation:
+
+<img width="1917" height="1140" alt="Screenshot 2026-11-24 085306" src="https://github.com/user-attachments/assets/8f552a52-9c4a-4730-8224-aacfb784b3f9" />
 
 
 ## RESULT
